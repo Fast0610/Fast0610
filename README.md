@@ -2,6 +2,8 @@
 
 **Full-Stack Developer | AI/ML Engineer in Progress | Computer Scientist**
 
+🔒 **Beyond Public Repositories:** I've developed additional production-ready projects, full-stack platforms, APIs, and AI solutions for clients under NDA. Please [contact me](https://wa.me/2349122001163) for more info.
+
 I'm a developer from Nigeria who enjoys building practical digital products, from responsive websites and full-stack web applications to AI-powered systems.
 
 My work focuses on building secure, maintainable applications, designing intuitive user experiences, automating workflows, and exploring machine learning solutions to real-world problems.
