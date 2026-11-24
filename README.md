@@ -26,7 +26,7 @@ My work focuses on building secure, maintainable applications, designing intuiti
 - PyTorch, Ultralytics YOLOv8, OpenCV, FastAPI, model evaluation, dataset auditing
 
 **Databases & Tools**
-- MySQL, Git, GitHub, Docker, Linux, Windows, Vercel
+- MySQL, PostgreSQL, TiDB, Git, GitHub, Docker, Linux, Windows, Vercel
 
 ## 🚀 Featured Projects
 
