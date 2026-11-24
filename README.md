@@ -65,8 +65,8 @@ I also build custom websites, authentication systems, checkout interfaces, API i
 
 I'm open to software development opportunities, AI/ML projects, freelance engagements, and collaborations.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/blessing-oyesomi-fast0610)
 - 🌐 [Portfolio](https://dev0610-portfolio.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/blessing-oyesomi-fast0610)
 - ✉️ [Email](mailto:blecinoyesomi16@gmail.com)
 - 💬 [WhatsApp](https://wa.me/2349122001163)
 
